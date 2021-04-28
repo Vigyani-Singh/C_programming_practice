@@ -23,7 +23,7 @@ int main(){
         printf("Addition of numbers is %d:", no1 / no2);
         break;    
     //square number
-    default:printf("Square =  %d \n Square = %d" , (no1*no1) ,(no2*no2));
+    default:printf("Invalid Input");
         break;
     }
     return 0;
